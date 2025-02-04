@@ -4,7 +4,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AriLeGrand&radius=20&theme=github-dark-dimmed&area=true&order=5" height="250" alt="activity-graph graph"  />
 </div>
 
-
 ###
 
 <br clear="both">
@@ -38,22 +37,22 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mathiasrivierez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/AriLeGrand" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitter&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="twitter logo"  />
+  <a href="www.linkedin.com/in/mathiasrivierez" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@arilegrand" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/ari.legrand/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/arilegrand" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="twitch logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitch logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=dev&logo=gmail&label=mrivierez@gaming.tech&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev&logo=gmail&label=mrivierez@gaming.tech&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+  <a href="https://twitter.com/AriLeGrand" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
