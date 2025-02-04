@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/AriLeGrand/AriLeGrand/output/snake.svg" alt="Snake animation" />
 
 ###
