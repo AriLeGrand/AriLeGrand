@@ -4,11 +4,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AriLeGrand&radius=20&theme=github-dark-dimmed&area=true&order=5" height="250" alt="activity-graph graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
