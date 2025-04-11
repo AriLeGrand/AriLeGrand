@@ -25,6 +25,8 @@
 ### 🐍 Discord Bot in Python  
 > A multifunctional bot to spice up any server!  
 🔗 [Check out the project](https://github.com/AriLeGrand/discordbot)
+> 
+> ![image](https://github.com/user-attachments/assets/16ead2c0-0c5c-4323-87a9-efedb7d8eb4d)
 
 ### 🧱 Game Engine in C++  
 > My very own custom C++ game engine, built from scratch with passion.  
