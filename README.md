@@ -26,15 +26,6 @@
 > Mon propre moteur de jeu en C++, 100% fait main par pure passion.  
 🔗 [Voir le projet](https://github.com/AriLeGrand/Dark-Matter-Engine)
 
----
-
-## 🏆 Badges GitHub
-
-![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-![](https://img.shields.io/badge/-FModel-FF3D00?style=flat-square&logoColor=white)
-![](https://img.shields.io/github/followers/AriLeGrand?style=social)
 
 ---
 
@@ -51,6 +42,15 @@
 - 🐦 [Twitter / X](https://twitter.com/arilegrand)
 - 📸 [Instagram](https://instagram.com/ari.legrand)
 - 📺 [YouTube](https://youtube.com/@arilegrand)
+---
+
+## 🏆 Badges GitHub
+
+![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![](https://img.shields.io/badge/-FModel-FF3D00?style=flat-square&logoColor=white)
+![](https://img.shields.io/github/followers/AriLeGrand?style=social)
 
 ---
 
