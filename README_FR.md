@@ -1,4 +1,6 @@
 # Salut, moi c'est Ari 👋
+[Read In English](./README.md)
+
 
 🎮 Game dev passionné par la création de jeux vidéo, le modding et les moteurs faits maison.  
 💻 Je code en C++ & Python, je bricole Unreal Engine et j’explore les fichiers de jeux avec FModel.  
