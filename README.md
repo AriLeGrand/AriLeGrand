@@ -37,7 +37,7 @@
 > My unity game project. 
 🔗 [Check out the project](https://github.com/AriLeGrand/smash-)
 > 
-> ![image](https://github.com/user-attachments/assets/8266a052-c1d3-4143-8f55-d160d250f3d8)
+> ![image](https://github.com/user-attachments/assets/b2fdd9dc-6c0b-4e23-954c-2d44a69fc124)
 
 ---
 
