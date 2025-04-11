@@ -8,7 +8,6 @@
 
 ![game-dev-gif](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
 
-> “Le code est mon crayon, le jeu mon tableau.” 🎨
 
 
 ---
