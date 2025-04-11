@@ -43,6 +43,8 @@
 - 🌐 [arilegrand.com](https://arilegrand.com)
 - 🐦 [Twitter / X](https://twitter.com/arilegrand)
 - 📺 [YouTube](https://youtube.com/@arilegrand)
+- 📬 **Email**: [arilegrand@gmail.com](mailto:arilegrand@gmail.com)
+
 ---
 
 ## 🏆 Badges GitHub
