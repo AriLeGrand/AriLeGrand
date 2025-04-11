@@ -8,7 +8,6 @@
 
 ![game-dev-gif](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
 
-> “Code is my brush, the game is my canvas.” 🎨
 
 
 ---
