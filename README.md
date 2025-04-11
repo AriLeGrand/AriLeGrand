@@ -20,11 +20,11 @@
 
 ### 🐍 Bot Discord Python
 > Un bot multifonctions pour animer les serveurs !  
-🔗 [Voir le projet](https://github.com/AriLeGrand/NOM_DU_REPO_BOT)
+🔗 [Voir le projet](https://github.com/AriLeGrand/discordbot)
 
 ### 🧱 Game Engine C++
 > Mon propre moteur de jeu en C++, 100% fait main par pure passion.  
-🔗 [Voir le projet](https://github.com/AriLeGrand/NOM_DU_REPO_ENGINE)
+🔗 [Voir le projet](https://github.com/AriLeGrand/Dark-Matter-Engine)
 
 ---
 
