@@ -45,7 +45,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AriLeGrand&show_icons=true&theme=tokyonight)
 ![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=AriLeGrand&layout=compact&theme=tokyonight)
 
----
 
 ## 🏆 Badges GitHub
 
