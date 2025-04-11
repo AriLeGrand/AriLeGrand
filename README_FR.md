@@ -25,6 +25,9 @@
 ### 🐍 Bot Discord Python
 > Un bot multifonctions pour animer les serveurs !  
 🔗 [Voir le projet](https://github.com/AriLeGrand/discordbot)
+>
+> ![image](https://github.com/user-attachments/assets/16ead2c0-0c5c-4323-87a9-efedb7d8eb4d)
+
 
 ### 🧱 Game Engine C++
 > Mon propre moteur de jeu en C++, 100% fait main par pure passion.  
