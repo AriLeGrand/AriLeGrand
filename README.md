@@ -8,6 +8,9 @@
 
 ![game-dev-gif](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
 
+> “Code is my brush, the game is my canvas.” 🎨
+
+
 ---
 
 ## 🛠️ Skills
@@ -16,7 +19,6 @@
 - 🧰 **Techs / Tools**: Unreal Engine, FModel, Discord API, Git  
 - 🛠️ **Modding**: Extracting & analyzing game content with [FModel](https://fmodel.app/) and [Unreal Engine](https://www.unrealengine.com/)
 
----
 
 ## 🚀 Featured Projects
 
@@ -55,4 +57,3 @@
 ![](https://img.shields.io/github/followers/AriLeGrand?style=social)
 
 ---
-> “Code is my brush, the game is my canvas.” 🎨
