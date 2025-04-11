@@ -22,19 +22,22 @@
 ## 🚀 Featured Projects
 
 ### 🐍 Discord Bot in Python  
-> A multifunctional bot to spice up any server!  
+> A multifunctional bot to spice up any server!
+> 
 🔗 [Check out the project](https://github.com/AriLeGrand/discordbot)
 > 
 > ![image](https://github.com/user-attachments/assets/16ead2c0-0c5c-4323-87a9-efedb7d8eb4d)
 
 ### 🧱 Game Engine in C++  
-> My very own custom C++ game engine, built from scratch with passion.  
+> My very own custom C++ game engine, built from scratch with passion.
+> 
 🔗 [Check out the project](https://github.com/AriLeGrand/Dark-Matter-Engine)
 > 
 > ![image](https://github.com/user-attachments/assets/8266a052-c1d3-4143-8f55-d160d250f3d8)
 
 ### 🏏 SMASH!
-> My unity game project. 
+> My unity game project.
+> 
 🔗 [Check out the project](https://github.com/AriLeGrand/smash-)
 > 
 > ![image](https://github.com/user-attachments/assets/b2fdd9dc-6c0b-4e23-954c-2d44a69fc124)
