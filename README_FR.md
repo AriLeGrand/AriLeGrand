@@ -42,7 +42,6 @@
 
 - 🌐 [arilegrand.com](https://arilegrand.com)
 - 🐦 [Twitter / X](https://twitter.com/arilegrand)
-- 📸 [Instagram](https://instagram.com/ari.legrand)
 - 📺 [YouTube](https://youtube.com/@arilegrand)
 ---
 
