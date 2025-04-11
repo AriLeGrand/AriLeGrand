@@ -30,30 +30,28 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AriLeGrand&show_icons=true&theme=tokyonight)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AriLeGrand&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AriLeGrand&show_icons=true&theme=tokyonight)
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=AriLeGrand&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌍 Find me elsewhere
+## 🌍 Me retrouver ailleurs
 
 - 🌐 [arilegrand.com](https://arilegrand.com)
 - 🐦 [Twitter / X](https://twitter.com/arilegrand)
 - 📸 [Instagram](https://instagram.com/ari.legrand)
 - 📺 [YouTube](https://youtube.com/@arilegrand)
-
 ---
 
-## 🏆 GitHub Badges
+## 🏆 Badges GitHub
 
-![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)  
-![](https://img.shields.io/badge/-FModel-FF3D00?style=flat-square&logoColor=white)  
+![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![](https://img.shields.io/badge/-FModel-FF3D00?style=flat-square&logoColor=white)
 ![](https://img.shields.io/github/followers/AriLeGrand?style=social)
 
 ---
-
 > “Code is my brush, the game is my canvas.” 🎨
