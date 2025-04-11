@@ -37,7 +37,7 @@
 
 ---
 
-## 🌍 Me retrouver ailleurs
+## 🌍 Find me elsewhere
 
 - 🌐 [arilegrand.com](https://arilegrand.com)
 - 🐦 [Twitter / X](https://twitter.com/arilegrand)
