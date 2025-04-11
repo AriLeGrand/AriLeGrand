@@ -32,19 +32,18 @@
 
 ---
 
-## 📈 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AriLeGrand&show_icons=true&theme=tokyonight)
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=AriLeGrand&layout=compact&theme=tokyonight)
-
----
-
 ## 🌍 Find me elsewhere
 
 - 🌐 [arilegrand.com](https://arilegrand.com)
 - 🐦 [Twitter / X](https://twitter.com/arilegrand)
 - 📺 [YouTube](https://youtube.com/@arilegrand)
 - 📬 **Email**: [arilegrand@gmail.com](mailto:arilegrand@gmail.com)
+---
+
+## 📈 Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AriLeGrand&show_icons=true&theme=tokyonight)
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=AriLeGrand&layout=compact&theme=tokyonight)
 
 ---
 
