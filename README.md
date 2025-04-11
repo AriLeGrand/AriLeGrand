@@ -35,7 +35,7 @@
 
 ### 🏏 SMASH!
 > My unity game project. 
-🔗 [Check out the project](https://github.com/AriLeGrand/Dark-Matter-Engine)
+🔗 [Check out the project](https://github.com/AriLeGrand/smash-)
 > 
 > ![image](https://github.com/user-attachments/assets/8266a052-c1d3-4143-8f55-d160d250f3d8)
 
