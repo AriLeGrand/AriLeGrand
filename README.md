@@ -8,12 +8,6 @@
 
 ![game-dev-gif](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
 
-## 📈 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AriLeGrand&show_icons=true&theme=tokyonight)
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=AriLeGrand&layout=compact&theme=tokyonight)
-
-
 ## 🏆 Badges GitHub
 
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
