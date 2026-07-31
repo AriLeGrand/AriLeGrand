@@ -2,9 +2,9 @@
 [Lire en français](./README_FR.md)
 
 
-🎮 Game dev passionate about creating video games, modding, and building custom engines.  
-💻 I code in C++ & Python, tinker with Unreal Engine, and dive into game files using FModel.  
-📚 Always curious, always learning.
+Game dev passionate about creating video games, modding, and building custom engines.  
+I code in C++ & Python, tinker with Unreal Engine, and dive into game files using FModel.  
+Always curious, always learning.
 
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
