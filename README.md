@@ -8,51 +8,6 @@
 
 ![game-dev-gif](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
 
-
-
----
-
-## 🛠️ Skills
-
-- 🧠 **Languages**: C++, Python  
-- 🧰 **Techs / Tools**: Unreal Engine, FModel, Discord API, Git  
-- 🛠️ **Modding**: Extracting & analyzing game content with [FModel](https://fmodel.app/) and [Unreal Engine](https://www.unrealengine.com/)
-
-
-## 🚀 Featured Projects
-
-### 🐍 Discord Bot in Python  
-> A multifunctional bot to spice up any server!
-> 
-🔗 [Check out the project](https://github.com/AriLeGrand/discordbot)
-> 
-> ![image](https://github.com/user-attachments/assets/16ead2c0-0c5c-4323-87a9-efedb7d8eb4d)
-
-### 🧱 Game Engine in C++  
-> My very own custom C++ game engine, built from scratch with passion.
-> 
-🔗 [Check out the project](https://github.com/AriLeGrand/Dark-Matter-Engine)
-> 
-> ![image](https://github.com/user-attachments/assets/566a0b46-a5fb-4082-bb61-1c5157fce699)
-
-
-### 🏏 SMASH!
-> My unity game project.
-> 
-🔗 [Check out the project](https://github.com/AriLeGrand/smash-)
-> 
-> ![image](https://github.com/user-attachments/assets/b2fdd9dc-6c0b-4e23-954c-2d44a69fc124)
-
----
-
-## 🌍 Find me elsewhere
-
-- 🌐 [arilegrand.com](https://arilegrand.com)
-- 🐦 [Twitter / X](https://twitter.com/arilegrand)
-- 📺 [YouTube](https://youtube.com/@arilegrand)
-- 📬 **Email**: [arilegrand@gmail.com](mailto:arilegrand@gmail.com)
----
-
 ## 📈 Statistiques GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AriLeGrand&show_icons=true&theme=tokyonight)
